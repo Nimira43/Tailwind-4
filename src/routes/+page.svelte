@@ -1,6 +1,8 @@
 <h1>Svelte Tunez</h1>
+<p>by NimiraTech</p>
+<p>Find out more <a href="https://github.com/Nimira43/Svelte-Tunez">HERE</a></p>
 
-<input />
+<input placeholder="Enter name"/>
 <select>
   <option>Option</option>
 </select>
