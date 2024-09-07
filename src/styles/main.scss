@@ -1,0 +1,35 @@
+@use "functions";
+
+@import "@fontsource/poppins";
+@import "@fontsource/poppins/100";
+@import "@fontsource/poppins/200";
+@import "@fontsource/poppins/300";
+@import "@fontsource/poppins/500";
+@import "@fontsource/poppins/600";
+@import "@fontsource/poppins/700";
+@import "@fontsource/poppins/800";
+@import "@fontsource/poppins/900";
+
+:root {
+  --bg: #111;
+  --sidebar: #000;
+  --header: #000;
+  --text: #ff4500;
+  --accent: #2cd62c;
+  --menu-bg: #222;
+  --gray-lg: #ccc; 
+  --gray-md: #222;
+  --gray-dk: #121212;
+  --menu-text: #ff4500;
+  --border: rgba(255, 255, 255, 0.15);
+  --sidebar-width: 250px;
+  --header-width: 64px;
+  --error: #ea1212;
+  --warning: #e19405;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--bg);
+  color: var(--text)
+}

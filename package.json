@@ -37,6 +37,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@fontsource/poppins": "^5.0.15",
 		"@unsass/breakpoint": "^2.4.0",
 		"modern-normalize": "^3.0.1"
 	}
