@@ -1,1 +1,20 @@
 @import "tailwindcss";
+
+@theme {
+  --prime: #ff4500;
+  --support: #008080;
+  --dark: #111;
+  --light: #fffcfa;
+  --grey-dark: #333;
+  --grey-medium: #999;
+  --grey-light: #ccc;
+  --grey-light-extra: #eee;
+}
+
+.bg-prime {
+  background-color: var(--prime);
+}
+
+.bg-dark {
+  background-color: var(--dark);
+}
