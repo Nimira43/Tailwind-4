@@ -8,6 +8,7 @@
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
     --color-orange-500: oklch(70.5% 0.213 47.604);
+    --color-blue-300: oklch(80.9% 0.105 251.813);
     --color-white: #fff;
     --spacing: 0.25rem;
     --text-5xl: 3rem;
@@ -184,6 +185,9 @@
   .text-5xl {
     font-size: var(--text-5xl);
     line-height: var(--tw-leading, var(--text-5xl--line-height));
+  }
+  .text-blue-300 {
+    color: var(--color-blue-300);
   }
   .text-white {
     color: var(--color-white);
