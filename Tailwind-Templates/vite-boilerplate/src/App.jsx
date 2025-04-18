@@ -47,6 +47,10 @@ const App = () => {
           type="text" placeholder='Password'
           className='block bg-dark text-prime py-2 px-3 border-0 outline-0 rounded-md mb-3' 
         />
+      </div>
+
+      <div className='container bg-support-light p-10'>
+
 
       </div>
     
