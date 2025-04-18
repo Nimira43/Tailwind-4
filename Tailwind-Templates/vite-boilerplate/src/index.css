@@ -50,6 +50,13 @@
   background-color: var(--gold);
 }
 
+.text-sky {
+  color: var(--sky);
+}
+.bg-sky {
+  background-color: var(--sky);
+}
+
 .text-dark {
   color: var(--dark);
 }
