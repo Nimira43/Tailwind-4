@@ -49,9 +49,8 @@ const App = () => {
         />
       </div>
 
-      <div className='container bg-support-light p-10'>
-
-
+      <div className='container bg-grey-medium p-10'>
+        <button className='bg-prime text-light p-5 rounded cursor-pointer m-3'>Button</button>
       </div>
     
     </>
